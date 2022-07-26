@@ -1,0 +1,16 @@
+.navbar-container {
+    background-color: black;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color: inherit;
+    text-decoration: none;
+}
+
+a:hover{
+    text-transform: uppercase;
+}

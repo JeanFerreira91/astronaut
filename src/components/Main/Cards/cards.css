@@ -1,0 +1,13 @@
+.cards-person {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+    padding: 0 5%;
+}
+
+.cards-person-box {
+    padding-bottom: 2%;
+}
